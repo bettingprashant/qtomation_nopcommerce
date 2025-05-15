@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ab25cd5-8506-4835-b250-76f525a7649d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Qtomation_Nopcommerce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_pages/Add_Customer_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_pages/Login_Admin_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configurations/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/nopcommerce.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/test_add_new_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/test_admin_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/test_admin_login_data_driven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/admin_login_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utiities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utiities/custom_logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utiities/excel_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utiities/read_properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Qtomation_Nopcommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Qtomation_Nopcommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/nopcommerce.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/nopcommerce.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/test_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/test_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +43,7 @@
     "Python tests.Python tests for test_admin_login.Test_01_Admin_Login.executor": "Run",
     "Python tests.Python tests for test_admin_login.Test_01_Admin_Login.test_valid_admin_login.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/91771/OneDrive - SmartCare Analytica AB/Desktop/Python Automtion/Python Selenium/nopcommerce",
+    "last_opened_file_path": "C:/Users/91771/OneDrive - SmartCare Analytica AB/Desktop/Python Automation/Python Selenium/Qtomation_Nopcommerce",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>

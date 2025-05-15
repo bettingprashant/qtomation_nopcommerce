@@ -574,3 +574,116 @@
 2025-05-14 00:20:30::INFO::**********Test_04_001_Search_Customer with email started **********
 2025-05-14 00:20:41::INFO::************Login completed************
 2025-05-14 00:20:41::INFO::************navigating to customer search page************
+2025-05-14 14:43:27::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 14:43:29::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 14:43:46::INFO::***********Login completed *************
+2025-05-14 14:43:46::INFO::***********starting add customer test *************
+2025-05-14 14:43:52::INFO::***********Providing customer info started *************
+2025-05-14 14:43:55::INFO::***********Test_03_Add_New_Customer test passed *************
+2025-05-14 14:59:24::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 14:59:25::INFO::***************test valid admin login started*******************
+2025-05-14 14:59:43::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 14:59:44::INFO::****************test_invalid_admin_login_started*****************
+2025-05-14 15:03:40::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 15:03:41::INFO::************Test_04_002_Search_Customer with name started************
+2025-05-14 15:03:56::INFO::************Login completed************
+2025-05-14 15:03:56::INFO::************navigating to customer search page************
+2025-05-14 15:04:28::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 15:04:29::INFO::************Test_04_003_Search_Customer with company name started************
+2025-05-14 15:04:38::INFO::************Login completed************
+2025-05-14 15:04:38::INFO::************navigating to customer search page************
+2025-05-14 15:04:38::INFO::************navigating to customer search page************
+2025-05-14 17:59:31::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 17:59:33::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 18:00:12::INFO::***********Login completed *************
+2025-05-14 18:00:12::INFO::***********starting add customer test *************
+2025-05-14 18:00:40::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:00:41::INFO::***************test valid admin login started*******************
+2025-05-14 18:01:15::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:01:17::INFO::**********Test_04_001_Search_Customer with email started **********
+2025-05-14 18:01:22::INFO::************Login completed************
+2025-05-14 18:01:22::INFO::************navigating to customer search page************
+2025-05-14 18:02:30::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:02:32::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 18:02:40::INFO::***********Login completed *************
+2025-05-14 18:02:40::INFO::***********starting add customer test *************
+2025-05-14 18:03:10::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:03:11::INFO::***************test valid admin login started*******************
+2025-05-14 18:03:21::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:03:22::INFO::**********Test_04_001_Search_Customer with email started **********
+2025-05-14 18:03:33::INFO::************Login completed************
+2025-05-14 18:03:33::INFO::************navigating to customer search page************
+2025-05-14 18:05:53::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:05:55::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 18:06:07::INFO::***********Login completed *************
+2025-05-14 18:06:07::INFO::***********starting add customer test *************
+2025-05-14 18:06:35::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:06:37::INFO::***************test valid admin login started*******************
+2025-05-14 18:06:44::INFO::***************dashboard text found****************
+2025-05-14 18:06:49::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:06:51::INFO::**********Test_04_001_Search_Customer with email started **********
+2025-05-14 18:06:55::INFO::************Login completed************
+2025-05-14 18:06:55::INFO::************navigating to customer search page************
+2025-05-14 18:10:35::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:10:36::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 18:10:48::INFO::***********Login completed *************
+2025-05-14 18:10:48::INFO::***********starting add customer test *************
+2025-05-14 18:11:19::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:11:20::INFO::***************test valid admin login started*******************
+2025-05-14 18:11:30::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:11:32::INFO::**********Test_04_001_Search_Customer with email started **********
+2025-05-14 18:11:36::INFO::************Login completed************
+2025-05-14 18:11:36::INFO::************navigating to customer search page************
+2025-05-14 18:12:29::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:12:30::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 18:12:39::INFO::***********Login completed *************
+2025-05-14 18:12:39::INFO::***********starting add customer test *************
+2025-05-14 18:13:10::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:13:12::INFO::***************test valid admin login started*******************
+2025-05-14 18:18:45::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:18:46::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 18:18:53::INFO::***********Login completed *************
+2025-05-14 18:18:53::INFO::***********starting add customer test *************
+2025-05-14 18:19:24::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:19:25::INFO::***************test valid admin login started*******************
+2025-05-14 18:19:33::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:19:34::INFO::**********Test_04_001_Search_Customer with email started **********
+2025-05-14 18:40:43::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:40:45::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-14 18:47:29::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-14 18:47:30::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-15 00:10:21::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 00:10:23::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-15 00:10:54::INFO::***********Login completed *************
+2025-05-15 00:10:54::INFO::***********starting add customer test *************
+2025-05-15 00:11:20::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 00:11:21::INFO::***************test valid admin login started*******************
+2025-05-15 00:11:31::INFO::***************dashboard text found****************
+2025-05-15 00:11:38::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 00:11:39::INFO::**********Test_04_001_Search_Customer with email started **********
+2025-05-15 00:11:46::INFO::************Login completed************
+2025-05-15 00:11:46::INFO::************navigating to customer search page************
+2025-05-15 11:58:14::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 11:58:16::INFO::***********Test_03_Add_New_Customer started *************
+2025-05-15 11:59:37::INFO::***********Login completed *************
+2025-05-15 11:59:37::INFO::***********starting add customer test *************
+2025-05-15 12:00:08::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 12:00:09::INFO::****************Test_01_Admin_Login*******************
+2025-05-15 12:00:09::INFO::****************Verification of admin login page title*******************
+2025-05-15 12:00:13::INFO::**************test title verification title matched********************
+2025-05-15 12:00:16::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 12:00:18::INFO::***************test valid admin login started*******************
+2025-05-15 12:00:28::INFO::***************dashboard text found****************
+2025-05-15 12:00:32::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 12:00:34::INFO::****************test_invalid_admin_login_started*****************
+2025-05-15 12:00:38::INFO::****************invalid_login_admin_error_messages_matched*****************
+2025-05-15 12:00:41::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 12:00:42::INFO::***************test valid admin login started*******************
+2025-05-15 12:01:55::INFO::test data is passed
+2025-05-15 12:02:05::INFO::test data is passed
+2025-05-15 12:02:11::INFO::test data is passed
+2025-05-15 12:02:11::INFO::Test admin data driven test is Passed
+2025-05-15 12:04:22::INFO::patching driver executable C:\Users\91771\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-05-15 12:04:24::INFO::**********Test_04_001_Search_Customer with email started **********
+2025-05-15 12:06:36::INFO::************Login completed************
+2025-05-15 12:06:36::INFO::************navigating to customer search page************
