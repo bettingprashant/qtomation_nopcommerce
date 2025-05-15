@@ -33,7 +33,9 @@ class Add_Customer_Page:
         self.driver.find_element(By.XPATH, self.customers_menu_xpath).click()
 
     def click_customers_from_menu_options(self):
-        self.driver.find_element(By.XPATH, self.customers_menu_options_xpath).click()
+        WebDriverWait(self.driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, self.customers_menu_options_xpath))
+        ).click()
 
     def click_addnew(self):
         self.driver.find_element(By.XPATH, self.add_new_button_xpath).click()
